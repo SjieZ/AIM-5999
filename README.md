@@ -8,7 +8,7 @@ We used 5 different LLM, which is Llama2-7b-chat, Mistral 7b, Yi-6b, GPT2 and ou
 # Quick Get Start
 ### Installation instructions:
 - **Install WSL(Windows Subsystem for Linux):** Because of the existence of the llama2 model, please install WSL in advance and run the code in the WSL environment.
-- **Install Python environment:** Make sure Python is installed in the WSL environment. If it is not installed, you can download and install it from [Python official website] (https://www.python.org/downloads/).(Note: the python version needs to be greater than 3.9)
+- **Install Python environment:** Make sure Python is installed in the WSL environment. If it is not installed, you can download and install it from [Python official website](https://www.python.org/downloads/).(Note: the python version needs to be greater than 3.9)
 - **Hugging face Access Tokens:** Sign up and apply a [Hugging face Access Tokens](https://huggingface.co/settings/tokens)
 - **Install necessary dependencies:** Please install necessary dependencies before running the code.
     ```
