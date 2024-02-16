@@ -18,7 +18,7 @@ We used 5 different LLM, which is Llama2-7b-chat, Mistral 7b, Yi-6b, GPT2 and ou
 - **Run the project:**
   - login Hugging face Access Tokens in WSL environment：
     ```
-    !huggingface-cli login --token XXXXX"     # change  "XXXXX" to your own Access Tokens
+    huggingface-cli login --token XXXXX"     # change  "XXXXX" to your own Access Tokens
     ```
   - Run the code in WSL environment:
     ```
